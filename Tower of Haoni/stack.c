@@ -38,6 +38,7 @@ void display(struct stack* s){
         printf("%d ",s->arr[i]);
     }
 }
+//Tower of Hanoi recurssion function (this was hell)
 void toh(int n,struct stack* s,struct stack* a,struct stack* d){
     if(n==1){
         push(d,pop(s));
