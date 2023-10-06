@@ -1,4 +1,4 @@
-#TOWER OF HANOI
+# TOWER OF HANOI
 
 Tower OF Haonai is a recurssive function implementation of stack
 In this I used a function in stack.c file called toh
