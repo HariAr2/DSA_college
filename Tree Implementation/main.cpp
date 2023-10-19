@@ -24,3 +24,14 @@ int main(){
    
     return 0;
 }
+
+
+/*
+       OUTPUT
+Level order traversal Before Mirroring
+10 
+2 34 56 100 
+77 88 1 7 8 9 
+
+
+*/
